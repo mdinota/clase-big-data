@@ -1,0 +1,9 @@
+notebook
+pandas
+dask[complete]
+
+# Tiene que estar instalado a nivel sistema también
+graphviz
+
+# Get taxis data
+requests

@@ -1,0 +1,12 @@
+.idea
+.cache
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.npm
+
+*.iml
+*.parquet
+*.png
+*.svg
